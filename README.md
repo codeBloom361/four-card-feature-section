@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot%202025-08-19%20181826.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://codebloom361.github.io/four-card-feature-section/](https://codebloom361.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -40,10 +40,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### What I learned
-
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- LinkedIn - [Sania Saleem](www.linkedin.com/in/sania-saleem-1aa125347)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
