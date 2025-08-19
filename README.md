@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-using-css-grid-44cWjHw83Z](https://www.frontendmentor.io/solutions/four-card-feature-section-using-css-grid-44cWjHw83Z)
 - Live Site URL: [https://codebloom361.github.io/four-card-feature-section/](https://codebloom361.github.io/four-card-feature-section/)
 
 ## My process
@@ -43,4 +43,4 @@ Users should be able to:
 ## Author
 
 - LinkedIn - [Sania Saleem](www.linkedin.com/in/sania-saleem-1aa125347)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@codeBloom361](https://www.frontendmentor.io/profile/codeBloom361)
